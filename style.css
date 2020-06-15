@@ -1,0 +1,39 @@
+Body {
+    background-color:#efeee7; 
+    font: georgia, "times New Roma", times, Serif;
+    color:#333333;
+    margin: 0; padding: 0;
+}
+Header {
+    background-color:#333333;
+}
+h1 {
+  color:#eee;
+  font-size:28px;
+  text-align: center;
+
+}
+h2 {
+    font-size:24px;
+}
+.container {
+    width:1024px;
+    margin:0auto;
+
+}
+#main-bio, #contact-info, #bio-image {
+    float: left;
+}
+#bio-image {
+    width:200px;
+    height:200px;
+}
+#main-bio {
+    width: 70%;
+}
+#contact-info {
+    width: 30%;
+}
+a {
+    color:#d21034;
+}
